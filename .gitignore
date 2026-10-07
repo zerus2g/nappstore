@@ -1,0 +1,6 @@
+.DS_Store
+build/
+output/*.ipa
+output/*.tipa
+output/*.deb
+*.xcuserdata
